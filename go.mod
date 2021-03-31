@@ -1,4 +1,4 @@
-module github.com/grailbio/go-dicom
+module github.com/sean-TPE/go-dicom
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
